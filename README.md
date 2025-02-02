@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a fullstack developer, for both mobile and and web developement.<br>My tech stack is Nextjs , React native (expo), shadcn, supabase, drizzle orm
+I am a fullstack developer, for both mobile and and web developement.<br>My tech stack is Nextjs , React native (expo),Kotlin (Jetpack compose), Swift (SwiftUi), shadcn, supabase, drizzle orm
 
 
 # 💻 Tech Stack:
